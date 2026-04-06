@@ -2,6 +2,8 @@
 
 A simple 2D platform game where a rabbit collects carrots.
 
+![Screenshot of Rabbit Run](assets/screenshot.png)
+
 This is a demo project that shows how to build a game using many small, organized source files that all compile into a single HTML file you can open in any browser. The idea is to keep things tidy during development while still ending up with one portable file you can share or play offline.
 
 It also serves as an example of how to work with an AI coding assistant on game projects — instead of editing one giant file, the modular structure lets the assistant focus on individual files without filling up its context window.
